@@ -3,6 +3,8 @@
 **A menu-driven Java application developed using Encapsulation, Parameterized Constructor, and Object-Oriented Programming principles to manage employee records efficiently.
 The system allows users to perform CRUD operations, search, sorting, and salary-based filtering through a structured console interface.**
 
+
+
 **🎯 Project Objective**
 
 To design and implement an Employee Management System that demonstrates:
@@ -11,6 +13,8 @@ Use of Parameterized Constructors
 Implementation of Getters and Setters
 Menu-driven program logic
 Data handling using arrays
+
+
 
 **🧱 Employee Class Structure**
 **👤 Employee**
@@ -23,12 +27,15 @@ salary
 contact
 address
 
+
 **Concepts Applied:**
 
 Private instance variables (Data Hiding)
 Public getter methods
 Setter method (setData())
 Object-based data management
+
+
 
 **⚙️ Key Functionalities**
 
@@ -55,10 +62,14 @@ Address
 💰 Display Employees within Salary Range (10000 – 60000)
 🚪 Exit Application
 
+
+
 **💻 Technical Implementation**
 
 Language: Java
 Programming Type: Console-Based
+
+
 
 **Concepts Used:**
 
@@ -69,13 +80,17 @@ Arrays for storage
 Nested Switch Case
 Manual Sorting Logic (Bubble Sort Concept)
 
-**🧠 Core Learning Outcomes
-**
+
+
+**🧠 Core Learning Outcomes**
+
 Implementing menu-driven systems
 Managing objects inside arrays
 Performing search, delete, and update operations
 Implementing sorting without built-in utilities
 Applying real-world employee data modeling
+
+
 
 **🚀 Try It on Your PC**
 
