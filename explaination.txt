@@ -1,0 +1,32 @@
+Start → Show Menu
+The program displays all available operations (Add, Display, Search, Update, Delete, Salary filter, Highest salary, Exit).
+
+Get Choice
+User picks an option by entering a number.
+
+Case 1: Add Employee
+Takes employee details from the user and stores them.
+
+Case 2: Display All
+Shows all employee records in table format.
+
+Case 3: Search
+Finds employees by specific attributes (ID, Name, Email, etc.).
+
+Case 4: Update
+Updates employee details for a selected record.
+
+Case 5: Delete
+Removes an employee record from the system.
+
+Case 6: Salary Range
+Displays employees whose salary lies between ₹10,000 and ₹60,000.
+
+Case 8: Highest Salary
+Finds the employee with the maximum salary and displays their details.
+
+Case 0: Exit
+Stops the program.
+
+Loop Back
+After completing a task, the program goes back to the menu until the user chooses Exit.
